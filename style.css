@@ -232,6 +232,7 @@ body{
     body{
         background-image: url(images/bg-main-desktop.png);
         background-position: left;
+        background-size: auto;
     }
 
     .backCard{
